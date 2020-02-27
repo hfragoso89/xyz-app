@@ -50,8 +50,8 @@
                     </view>
                     <connections>
                         <outlet property="xLabel" destination="1Jc-vW-QQu" id="G4k-6F-w66"/>
-                        <outlet property="yLabel" destination="xIo-vw-1fu" id="WBf-4H-mt9"/>
-                        <outlet property="zLabel" destination="xIo-vw-1fu" id="S3p-1y-NhM"/>
+                        <outlet property="yLabel" destination="ige-yR-RxM" id="IPD-JM-HHA"/>
+                        <outlet property="zLabel" destination="zD0-FY-6SV" id="QOU-zK-Dma"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
